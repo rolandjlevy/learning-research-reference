@@ -30,6 +30,11 @@
 - Learn how to save state in sessions using Redis in Express: [1](https://jankleinert.com/blog/2019/07/11/nodejs-session-management-using-express-sessions-and-redis-part-1.html ), [2](https://medium.com/mtholla/managing-node-js-express-sessions-with-redis-94cd099d6f2f ), [3](https://dev.to/lambdastore/express-session-with-serverless-redis-3m9c)
 - Build projects for portfolio: [Web Dev Simplified](https://www.youtube.com/watch?v=oluY633rkgI), [Joshua Fluke](https://www.youtube.com/watch?v=B7qZajxE17E), [Coder Foundry](https://www.youtube.com/watch?v=zbwbhDp2kXw), [CSS torsions](https://varun.ca/torsions)
 
+# CSS
+
+- [css-doodle](https://css-doodle.com)
+- [css-mesh-gradient](https://www.csshero.org/mesher)
+
 # Reference
 
 - Generate fake data with [faker.js](http://marak.github.io/faker.js/)
