@@ -30,6 +30,22 @@
 - Learn how to save state in sessions using Redis in Express: [1](https://jankleinert.com/blog/2019/07/11/nodejs-session-management-using-express-sessions-and-redis-part-1.html ), [2](https://medium.com/mtholla/managing-node-js-express-sessions-with-redis-94cd099d6f2f ), [3](https://dev.to/lambdastore/express-session-with-serverless-redis-3m9c)
 - Build projects for portfolio: [Web Dev Simplified](https://www.youtube.com/watch?v=oluY633rkgI), [Joshua Fluke](https://www.youtube.com/watch?v=B7qZajxE17E), [Coder Foundry](https://www.youtube.com/watch?v=zbwbhDp2kXw), [CSS torsions](https://varun.ca/torsions)
 
+# Reference
+
+- Generate fake data with [faker.js](http://marak.github.io/faker.js/)
+- README creator [readme.so](https://readme.so/editor)
+- Using [marked](https://www.npmjs.com/package/marked) to convert this README.md into HTML
+- About this README [View source code](https://replit.com/@RolandJLevy/expressideas-learning-research), [Reading a file in Node](https://stackoverflow.com/questions/27971806/returning-rendered-markdown-with-express-and-marked)
+- Create readme page on Github [How to](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9)
+- [Great README template](https://github.com/ritaly/README-cheatsheet#general-info)
+- examples: [1](https://github.com/natterstefan), [2](https://github.com/dhruvsheth-ai), [3](https://github.com/WaylonWalker)
+- How to [trigger keypress event with jQuery](https://stackoverflow.com/questions/832059/definitive-way-to-trigger-keypress-events-with-jquery)
+```js
+var event = jQuery.Event("keydown");
+event.which = 9;
+btn.trigger(event);
+```
+
 # Games
 
 - [Pacman tutorial](https://github.com/weibenfalk/vanilla-js-pacman)
@@ -39,19 +55,3 @@
 - [YT Tutorial](https://www.youtube.com/watch?v=3EMxBkqC4z0)
 - [Snake game tutorial](https://dev.to/nitdgplug/learn-javascript-through-a-game-1beh)
 - [JS1024](https://js1024.fun/results/2020#16)
-
-# Reference
-
-- README creator [readme.so](https://readme.so/editor)
-- Using [marked](https://www.npmjs.com/package/marked) to convert this README.md into HTML
-- About this README [View source code](https://replit.com/@RolandJLevy/expressideas-learning-research), [Reading a file in Node](https://stackoverflow.com/questions/27971806/returning-rendered-markdown-with-express-and-marked)
-- Create readme page on Github [How to](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9)
-- [Great README template](https://github.com/ritaly/README-cheatsheet#general-info)
-- examples: [1](https://github.com/natterstefan), [2](https://github.com/dhruvsheth-ai), [3](https://github.com/WaylonWalker)
-- How to [trigger keypress event with jQuery](https://stackoverflow.com/questions/832059/definitive-way-to-trigger-keypress-events-with-jquery)
-
-```js
-var event = jQuery.Event("keydown");
-event.which = 9;
-btn.trigger(event);
-```
