@@ -1,3 +1,10 @@
+# Priority Learning
+
+- Redux
+- React Hooks
+- React course on Freecodecamp
+
+
 # Learning
 
 - Dmitri's suggestion of [theme-ui](https://theme-ui.com/home)
