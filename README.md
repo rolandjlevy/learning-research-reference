@@ -2,6 +2,7 @@
 
 - Redux
 - React Hooks
+- React Router
 - React course on Freecodecamp
 
 
@@ -51,6 +52,8 @@
 - Create readme page on Github [How to](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9)
 - [Great README template](https://github.com/ritaly/README-cheatsheet#general-info)
 - examples: [1](https://github.com/natterstefan), [2](https://github.com/dhruvsheth-ai), [3](https://github.com/WaylonWalker)
+- Using the [he HTML entities encoder/decoder](https://github.com/mathiasbynens/he) to avoid XSS attacks like this: `<img onerror="alert('XSS attack!')">`
+- [XSS Filter Evasion Cheat Sheet](https://owasp.org/www-community/xss-filter-evasion-cheatsheet)
 - How to [trigger keypress event with jQuery](https://stackoverflow.com/questions/832059/definitive-way-to-trigger-keypress-events-with-jquery)
 ```js
 var event = jQuery.Event("keydown");
