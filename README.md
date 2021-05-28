@@ -1,16 +1,14 @@
 # Priority Learning
 
-- Redux
+- [Redux](https://github.com/brillout/awesome-redux#readme)
 - React Hooks
 - React Router
-- React course on Freecodecamp
-
+- [React course on Freecodecamp](https://www.freecodecamp.org/)
 
 # Learning
 
 - Dmitri's suggestion of [theme-ui](https://theme-ui.com/home)
 - Material-UI, [Ant Design](https://ant.design/), [Reactstrap](https://reactstrap.github.io/)
-- [Freecodecamp React tutorial](https://www.freecodecamp.org/)
 - [Flavio Copes bootcamp](https://2020.thejsbootcamp.com/gYF5zJYBbDyRQiemceqv/#modules)
 - JS course with [Well paid geek](https://wellpaidgeek.teachable.com/courses/learn-javascript-step-by-step/lectures/13358676)
 - web sockets [chat-app-with-socket-io](https://replit.com/@RolandJLevy/chat-app-with-socket-io) | [Traversy Media - build a chat room](https://www.youtube.com/watch?v=jD7FnbI76Hg), [Web dev course](https://www.youtube.com/watch?v=rxzOqP9YwmM)
@@ -44,7 +42,9 @@
 - [css-mesh-gradient](https://www.csshero.org/mesher)
 
 # Reference
-
+- [Awesome links](https://github.com/sindresorhus/awesome#contents)
+- Always use the [HSL colour mode](https://youtu.be/Ab9pHqhsfcc)
+- [Dark mode in 5 minutes](https://youtu.be/Ab9pHqhsfcc), with inverted lightness variables – Lea Verou
 - Generate fake data with [faker.js](http://marak.github.io/faker.js/)
 - README creator [readme.so](https://readme.so/editor)
 - Using [marked](https://www.npmjs.com/package/marked) to convert this README.md into HTML
